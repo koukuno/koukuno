@@ -1,0 +1,2 @@
+- currently programming in C++ / Python / Rust
+- thats about it
