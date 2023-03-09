@@ -1,4 +1,5 @@
-### A sleepy 18 year old programmer.
-C/C++ / Java / JavaScript / Python / Lua / GLSL / HLSL / sh
+### A sleepy 19 year old programmer.
+C/C++ / Java / Rust / JavaScript / Python / Lua / sh
+cmake / meson / build
 
 Vulkan hits different.
